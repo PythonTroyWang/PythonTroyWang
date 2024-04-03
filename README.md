@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PythonTroyWang
-- 👀 I’m interested in <code>coding</code>
+- 👀 I’m interested in <code>coding</code> & <code>music</code> 
 - 🌱 I’m currently learning <code>Python</code>
 - 📫 How to reach me <code>wechet：TechXL</code> <code>gmail：troyerwang.dev@gmail.com</code>
 
